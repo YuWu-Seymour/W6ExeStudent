@@ -30,4 +30,5 @@ import {PokemonDetailComponent} from './pokeapi/pokemon-detail/pokemon-detail.co
   bootstrap: [AppComponent]
 })
 export class AppModule {
+
 }
